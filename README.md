@@ -1,10 +1,10 @@
 # Hello My Fellow Developer, Mentor or Student 👋
 
-I am **Jawad Anzum Fahim**, An Undergraduate Communication Engineering student.
-An avid learner
-Jack of all *traders*, master of **some**
-I am always learning, always trying new language, new framework, a new way to look into an existing application
-Whatever is your need, I will try my best to help you, if I am incapable, I am ready to learn it and then help you. You aren't going to see **Impossible** here
+I am **Jawad Anzum Fahim**, An Undergraduate Communication Engineering student.  
+An avid learner  
+Jack of all *traders*, master of **some**  
+I am always learning, always trying new language, new framework, a new way to look into an existing application  
+Whatever is your need, I will try my best to help you, if I am incapable, I am ready to learn it and then help you. You aren't going to see **Impossible** here  
 
 ## 🛠️ Skills
 
