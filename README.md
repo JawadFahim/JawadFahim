@@ -4,7 +4,7 @@
 
 I build things for the web — from healthcare platforms to social media automation engines. Currently finishing my Information and Communication Engineering degree at BUP. I care about clean architecture, real-world impact, and shipping things that actually work.
 
-📧 jawadanzum@gmail.com &nbsp;·&nbsp; 📞 +8801782116973 &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jawadfahim136810/)
+📧 jawadanzum@gmail.com &nbsp;·&nbsp; 📞 +8801782116973 &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jawadfahim136810/) [Portfolio](https://jawadfahim.github.io/)
 
 ---
 
