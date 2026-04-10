@@ -21,7 +21,7 @@ I build things for the web — from healthcare platforms to social media automat
 
 ## Projects
 
-**[TreatWell 2.0](https://github.com/JawadFahim/treatwell-deploy)** — Modern Healthcare Platform  
+**[TreatWell 2.0](https://treatwell-next-delta.vercel.app/)** — Modern Healthcare Platform  
 *Next.js · TypeScript · MongoDB · NextAuth.js*
 
 Rebuilt from scratch after being selected at Learnathon 3.0 by Geeky Solutions. Dual portals for patients and doctors, real-time booking, video consultations, OTP-based auth, and a health dashboard with Chart.js. The kind of project that makes you think hard about data modeling.
